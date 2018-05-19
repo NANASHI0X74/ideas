@@ -15,3 +15,5 @@ A repository where I collect/write down ideas bouncing around in my head
 
 ## Safety precautions
 - ¡lots of uncensored thoughts here, don't expect political correctness!
+- ¡¡warning! may contain disruptive thoughts. !
+- I may or may not update the repository in the future. (likely will)

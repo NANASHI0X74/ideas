@@ -3,14 +3,16 @@
 ## what the show is about
 - it's about an Movie Director who is struggling with Career fatigue
 - it's also about the Movie Project Zero (insert link to .md file)
-- it covers themes including:
+- (it's partly inspired by the Netflix Series BoJack Horseman)
+
+### it covers themes including:
     - career fatigue
     - existential dread/ nihilism
-    - drug use
+    - drug (ab)use
         - integrated as part of a creative workflow
     - a creator hating his own creation and dissonance between the perception of a creation by it's creator and other people
+    - depression
     - burnout (maybe)
-- (partly inspired by the Netflix Series BoJack Horseman)
 
 ## characters
 - (just one at this time)
@@ -47,4 +49,13 @@ economic success and public <love, acceptance, trying to find the right word her
     - ...and the current project he's working on...
         - ...although at the same time he's deeply invested in the ideas he's trying to communicate
         - -> which makes him feel obligated to make the project as good as theoretically could be humanly possible
-- the idea for the movie was purposefully chosen by him to be extremely scandalous, during a very dark time <in terms of his mood>, hoping to erode the trust that many people put in him by 
+- the idea for the movie was purposefully chosen by him to be extremely scandalous, during a very dark time <in terms of his mood>, hoping to erode the trust that many people put in him by producing a movie unlike his previous work (more details about the themes of the movie in its own .md file (insert link when started) )
+    - he still  gets attached to these themes and wants to perform well in communicating them and make a good Movie
+- he loses his motivation more and more
+    - -> we often see him slacking off
+        - listening to loud music in a room for longer times
+        - watching stuff
+    - he starts sleeping less
+
+## more ideas
+-

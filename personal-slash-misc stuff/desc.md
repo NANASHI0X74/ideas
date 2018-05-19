@@ -1,0 +1,16 @@
+# words that describe me
+- (computer) engineer
+- programmer
+- problem solver
+- egoist / egocentric
+- humble
+- altruist
+- jack-of-many-trades
+- win 10 user
+- nihilist
+- human
+- ubuntu user
+- Kali user (well, not really)
+- spanish learner
+- male
+- 

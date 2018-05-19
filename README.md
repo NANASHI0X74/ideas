@@ -8,6 +8,8 @@ A repository where I collect/write down ideas bouncing around in my head
 ## how to use
 - every site in here <for the more "tech-savvy", every .md file>
 - everything is in english <and that isn't going to change>
+- if you have feedback, write it in a github issue. If you don't know how to do that, ask google or a technically versed person <you will need a github account>
+    - if you know how to contact me, you may try asking me how to do the above
 - (stub)
 - (insert meme- instructions unclear, dick stuck in toaster)
 

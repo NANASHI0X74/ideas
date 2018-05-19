@@ -6,6 +6,7 @@ Original purpose stuff
 # Quoteable one-liners
 - I shall not stand idly by where misinformation and fear are nourished
     - ,for ignorance is the root of all that is evil
+    - (pushed through shakespeare translator ( https://www.shmoop.com/shakespeare-translator/ ) ): I shalt not standeth idly by whither misinformation and fear art nourished, for ignorance is the root of all that is evil
 - Communication is a necessary tedium
 - I h8 communicating b/c 2 less efficient
     - tl/dr: fuk off
@@ -13,7 +14,7 @@ Original purpose stuff
     - (is too inefficient... +stuff)
 - programmers are better surgeons and vice-versa
 - was the time right for star wars before or after it came out?
-- Much rather be surprised than do something known to be enjoyable to  you
+- Much rather be surprised than do something known to be enjoyable to you ( Much rather beest surprised than doth something known to beest enjoyable to thee )
 
 
 Stupid thought-logfile stuff

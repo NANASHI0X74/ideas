@@ -34,16 +34,19 @@
 - Platon
 - Epikouros
 - Diomedes
+- Ayn
 
 ## norse mythology
 - Thor
 - Odin
+- Loki
 - mjolnir
 - Kratos :p :p
 - Niflheim
 - Valhalla
 - Ragnarok
 - Freia
+-
 
 ## Roman names/ mythology
 - Ceasar
@@ -63,6 +66,7 @@
 - Tom
 - Faye
 - Joy
+- Ayn
 
 ## memorable names
 - Steve
@@ -87,3 +91,11 @@
 - Lincler
 - Valentino
 - Antonio
+
+## spanish
+- me gusta
+- yo soy
+- que tal
+- leche
+- encantada(o)
+-

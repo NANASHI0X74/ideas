@@ -15,6 +15,7 @@ Original purpose stuff
 - programmers are better surgeons and vice-versa
 - was the time right for star wars before or after it came out?
 - Much rather be surprised than do something known to be enjoyable to you ( Much rather beest surprised than doth something known to beest enjoyable to thee )
+- the thing you just said is... An opinion that's probably very important to yourself. 
 
 
 Stupid thought-logfile stuff

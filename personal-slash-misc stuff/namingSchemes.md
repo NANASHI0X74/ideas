@@ -104,3 +104,9 @@
 - War
 - Strife
 - Fury
+
+## War, Death, Pestilence, Famine
+- Death
+- War 
+- Pestilence
+- Famine

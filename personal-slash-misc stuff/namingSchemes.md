@@ -98,4 +98,9 @@
 - que tal
 - leche
 - encantada(o)
--
+
+## Death, War, Strife and Fury
+- Death
+- War
+- Strife
+- Fury

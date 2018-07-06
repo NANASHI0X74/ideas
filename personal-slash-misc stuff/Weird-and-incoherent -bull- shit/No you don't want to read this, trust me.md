@@ -3,7 +3,7 @@
 - escur br.@
 - exe esc
 - kspade
-- ba'al, daa backslash Xploda 
+- ba'al, daa backslash Xploda <https://www.explainxkcd.com/wiki/index.php/1638:_Backslashes>
 - hard party
 - soul/eating\jack
 - teszarrt
@@ -23,4 +23,6 @@
 - cartahana
 - time;shiftR
 - shlCLR
+
 ## crazier shit
+https://www.xkcd.com/1638/

@@ -110,3 +110,11 @@
 - War 
 - Pestilence
 - Famine
+
+## Master-Slave
+- SOL - SOS
+- 00BA - WINNA
+
+## Slave-Master
+- SOS - SOL
+- WINNA - OOBA

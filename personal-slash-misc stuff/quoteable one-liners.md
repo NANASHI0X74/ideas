@@ -16,8 +16,12 @@ Original purpose stuff
 - was the time right for star wars before or after it came out?
 - Much rather be surprised than do something known to be enjoyable to you ( Much rather beest surprised than doth something known to beest enjoyable to thee )
 - the thing you just said is... An opinion that's probably very important to yourself. 
+- <at a point in time after the time of writing this and after walking out of the lecture room for the exam of basic statistics> "There's a non-zero chance that I've passed the exam, but I'll have to wait for what the statistics say" <_wink, wink_ **ba-dum-tss**
 
 # Quotes that aren't by me
+
+## ...but... some dumb jokes I guess I picked up on the Internet at some point
+- a sheep, a drum and a snake fall off a cliff - _baa-dum-tsss_ <similar: https://www.youtube.com/watch?v=8eXj97stbG8>
 
 ## ...but by Epicurus
 - Death does not concern us, because as long as we exist, death is not here. And when it does come, we no longer exist.

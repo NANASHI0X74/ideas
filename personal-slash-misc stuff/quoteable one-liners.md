@@ -4,9 +4,10 @@ Original purpose stuff
 =======
 
 # Quoteable one-liners
-- I shall not stand idly by where misinformation and fear are nourished
-    - ,for ignorance is the root of all that is evil
-    - (pushed through shakespeare translator ( https://www.shmoop.com/shakespeare-translator/ ) ): I shalt not standeth idly by whither misinformation and fear art nourished, for ignorance is the root of all that is evil
+
+-  I shalt not standeth idly by whither misinformation and fear art nourished,
+    - for ignorance is the root of all that is evil
+            - (shakespeare-un-translated < https://www.shmoop.com/shakespeare-translator/ > ): I shall not stand idly by where misinformation and fear are nourished ,for ignorance is the root of all that is evil
 - Communication is a necessary investment
 - I h8 communicating b/c 2 less efficient
     - tl/dr: fuk off

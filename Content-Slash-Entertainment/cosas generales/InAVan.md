@@ -12,7 +12,7 @@
 
 ## Characters
 
-### the two main characters chose to found the company
+### the two main characters who chose to found the company
 1. to put it simply because they were bored
 2. to put it in more accurate terms...
     * they came to an understanding that life and their lives in particular had no meaning, which led them to adopt a nihilistic/ hedonistic world view

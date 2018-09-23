@@ -98,4 +98,23 @@
 - que tal
 - leche
 - encantada(o)
--
+
+## Death, War, Strife and Fury
+- Death
+- War
+- Strife
+- Fury
+
+## War, Death, Pestilence, Famine
+- Death
+- War 
+- Pestilence
+- Famine
+
+## Master-Slave
+- SOL - SOS
+- 00BA - WINNA
+
+## Slave-Master
+- SOS - SOL
+- WINNA - OOBA

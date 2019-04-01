@@ -9,6 +9,7 @@
   - more complex Refactoring tasks like interface-ify functions or implement patterns like Visitor or Observer
 - it should have its own Package Manager with CLI
   - and virtualenvs comparable to python.
+- it should also have a CLI to access any functionality the IDE provides or an API in, for example, python so that you can write scripts to automate tasks and use the IDE from a REPL shell
 
 ## nice-to-have
 - provide functionality for porting code between different languages

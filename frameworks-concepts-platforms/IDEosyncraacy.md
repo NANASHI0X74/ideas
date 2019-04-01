@@ -5,7 +5,10 @@
 - which is open-source and hackable/ ultra-flexible (comparable to Atom/vim)
 - It provides an efficient way to define templates for
   - Code Completion
-  - and Refactoring Tasks (e.g. pull up members/ interface-ify functionality)
+  - and Refactoring Tasks (e.g. pull up members/ reshape if and switch statements/expressions)
+  - more complex Refactoring tasks like interface-ify functions or implement patterns like Visitor or Observer
+- it should have its own Package Manager with CLI
+  - and virtualenvs comparable to python.
 
 ## nice-to-have
 - provide functionality for porting code between different languages
@@ -14,7 +17,8 @@
   - porting Code
   - and figuring out which decisions a programmer has to make when porting code to languages with e.g. different paradigms and other Features
   - smart suggestions for Code which could be
-        - made more concise,
-        - maintainable/readable,
-        - or which could be optimized
-  depending on the languages
+    - made more concise,
+    - maintainable/readable,
+    - or which could be optimized
+  - depending on the languages
+- Machine Learning to learn what functionality  is the most useful depending on the context

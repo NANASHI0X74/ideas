@@ -27,7 +27,7 @@
 
 ## other random, madeup words connected to thoughts
 - kiwisoft
-- ash7 (~~H~~#7
+- ash7 (~~H~~#7)
 
 ## crazier shit
 https://www.xkcd.com/1638/

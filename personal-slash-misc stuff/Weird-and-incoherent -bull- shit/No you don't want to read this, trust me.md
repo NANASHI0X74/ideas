@@ -23,6 +23,11 @@
 - cartahana
 - time;shiftR
 - shlCLR
+- Vertighost (c.f. the offspring - pay the man)
+
+## other random, madeup words connected to thoughts
+- kiwisoft
+- ash7 (~~H~~#7)
 
 ## crazier shit
 https://www.xkcd.com/1638/

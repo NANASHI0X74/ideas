@@ -18,6 +18,8 @@ Original purpose stuff
 - Much rather be surprised than do something known to be enjoyable to you ( Much rather beest surprised than doth something known to beest enjoyable to thee )
 - the thing you just said is... An opinion that's probably very important to yourself. 
 - <at a point in time after the time of writing this and after walking out of the lecture room for the exam of basic statistics> "There's a non-zero chance that I've passed the exam, but I'll have to wait for what the statistics say" <_wink, wink_ **ba-dum-tss**
+- I don't f*(lippi)ng care what the world does - I just want to enable the people in doing it
+  - or give the people the freedom to do it
 
 # Quotes that aren't by me
 

@@ -40,8 +40,19 @@
 - ### Principle of Enabling
 
   - ## Meaning:
-    - We do what we can to 
-- ### Principle of Choice
+    - We do what we can to give people the means to do what they desire
+    - We facilitate free education in the sense of free of charge and as in freely customizable for each individual within or without us
+    - We will actively fight stigmata which might impact an individual's ability to achieve their desires (, within reason, without risking harm or impaired ability to achieve desires for others, but this clause is dangerously broadly interpretable, so it stands within parentheses)
+    - We will not allow people or organisations to harm other people or organisations or to impair other people( or organisations)'s ability to achieve what these other parties desire (unless both parties give prior consent, of course)
+    - We will make efforts to accomodate people with any kind of disability and specially help them in their pursuit of their own desires
+
+  - ## Constitutional Laws:
+    - Everyone, no matter their background, age, ethnicity, sex etc.. and no matter if they're part of us or not, has free access to educational resources suitable for self-organized study
+    - We will encourage and facilitate self-organized study teams
+    - Everyone, no matter their [etc] has access to resources to educate themselves, including courses, tutoring, but people who need professional assistance more than others, people who will compensate personnel and members of us will be preferred.
+    - (insert laws to accomodate for disability here)
+
+- ### Principle of Choice and Consent
 - ### Principle of Decentralization
 - ### Principle of Privacy
 - ### Principle of proportionate accountability

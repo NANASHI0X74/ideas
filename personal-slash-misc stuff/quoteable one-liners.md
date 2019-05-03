@@ -41,7 +41,7 @@ Original purpose stuff
 - God is both the annihilating fire and an indescribable grace
 - All that we call good is always balanced by an equally substantial evil.
 - Evil cannot be argued to have come from man
-
+- Whenever dogma takes over human minds, they lose sight of whatever spiritual insights they had in the first place.
 
 Stupid thought-logfile stuff
 =======

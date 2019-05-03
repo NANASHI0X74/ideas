@@ -37,6 +37,9 @@ Original purpose stuff
 - This quote was taken out of context
 - <ah, see for yourself ya lazy ass: https://m.xkcd.com/1942/>
 
+## ...but by Carl G. Jung (relayed by another author)
+- God is both the annihilating fire and an indescribable grace
+- All that we call good is always balanced by an equally substantial evil.
 
 
 

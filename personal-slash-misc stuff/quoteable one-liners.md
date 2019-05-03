@@ -40,7 +40,7 @@ Original purpose stuff
 ## ...but by Carl G. Jung (relayed by another author)
 - God is both the annihilating fire and an indescribable grace
 - All that we call good is always balanced by an equally substantial evil.
-
+- Evil cannot be argued to have come from man
 
 
 Stupid thought-logfile stuff

@@ -43,6 +43,9 @@ Original purpose stuff
 - Evil cannot be argued to have come from man
 - Whenever dogma takes over human minds, they lose sight of whatever spiritual insights they had in the first place.
 
+## ...but by BMTH
+- And when you die, the only kingdom you'll see is two foot wide and six foot deep
+
 Stupid thought-logfile stuff
 =======
 

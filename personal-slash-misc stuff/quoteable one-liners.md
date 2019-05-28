@@ -46,6 +46,9 @@ Original purpose stuff
 ## ...but by BMTH
 - And when you die, the only kingdom you'll see is two foot wide and six foot deep
 
+## ...but by The Offspring
+- if it sounds sarcastic, don't take it seriously. If it sounds dangerous, do not try this at home or at all and if it offends you, just don't listen to it.
+
 Stupid thought-logfile stuff
 =======
 

@@ -6,7 +6,9 @@
     - That's a problem because: if children of alg 2 receivers earn more than 100€, they get to keep only 20% of the income because the rest is subtracted from the alg 2 payment. This in effect perpetuates poverty across generations.
     - actually after I've looked into it a bit more, I understamd alg 2 is altogether an atrocity. It's just that I heard about this specific problem sooner, from this youtube video: <https://youtu.be/YilbojIzt04>
     - according to: SGB 2 §7 Abs 3 4. (https://www.gegen-hartz.de/bedarfsgemeinschaft-alg-ii)
-
+- It's a crime if you try to prevent police from knocking out your teeth on Demonstrations and public Events
+    - cf. https://de.wikipedia.org/wiki/Schutzwaffe (search for "Mundschutz")
+    - The best part is there's an exception for religious events
 
 
 
